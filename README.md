@@ -1,4 +1,4 @@
-# File Encryption/Decryption System
+# Encrypt-Decrypt System
 
 This project implements a multi-process file encryption and decryption system using C++. It allows users to encrypt or decrypt multiple files in a directory concurrently.
 
